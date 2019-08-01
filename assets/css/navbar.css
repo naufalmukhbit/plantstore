@@ -1,0 +1,66 @@
+/*Navbar Style*/
+.navbar {
+	background-color: white;
+	border-radius: 0;
+	height: 60px;
+}
+.navbar-shadow {
+	box-shadow: 0 2px 10px rgba(0, 0, 0, 0.22);
+}
+.navbar-brand {
+	height: 40px;
+	margin-top: -2px;
+}
+#search-bar {
+	margin-top: 12px;
+	width: 800px;
+}
+#search-bar input {
+	width: 500px;
+	margin-right: 5px;
+	border-radius: 0;
+	border: 0;
+}
+.no-glow {
+	box-shadow: none !important;
+}
+#search-bar button {
+	box-shadow: 0 0 0;
+}
+.reg-btn {
+	font-weight: bolder;
+	color: white;
+	border-radius: 10px;
+	border: 0;
+	box-shadow: 0px 2px 3px lightgrey;
+	background-color: #4CBB17; /*#FF6F00;*/
+	margin-top: 0;
+}
+#login-btn {
+	margin-top: 5px;
+}
+#login-btn a {	
+	color: #4CBB17 !important; /*#FF6F00;*/
+	margin-top: 0;
+}
+#sign-up-btn {
+	font-weight: normal;
+	border-radius: 5px;
+	box-shadow: 0px 0px 0px;
+}
+.fa-star {
+	color: #9E9E9E;
+	font-size: 20px;
+}
+.fa-shopping-cart {
+	color: #9E9E9E;
+	font-size: 20px;
+	margin: 0 1rem 0 1rem;
+}
+.nav-item img {
+	width: 40px;
+}
+.dropdown-item .fa {
+	color: #9E9E9E;
+	width: 30%;
+}

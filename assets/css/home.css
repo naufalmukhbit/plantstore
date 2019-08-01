@@ -1,0 +1,245 @@
+body {
+	font-family: Nunito;
+	padding-top: 60px;
+}
+
+.categories a {
+	color: #212121;
+}
+.categories .card:hover {
+	box-shadow: 0 0 10px grey;
+}
+.categories a:hover {
+	font-weight: bolder;
+	font-style: none;
+	text-decoration: none;
+}
+
+#banner-images {
+	width: 70%
+	margin: auto;
+}
+.carousel-image-prev {
+	background-image: url("../images/btn-left-active.png");
+	width: 50px;
+	height: 50px;
+}
+.carousel-image-next {
+	background-image: url("../images/btn-right-active.png");
+	width: 50px;
+	height: 50px;
+}
+.carousel-item img {
+	width: 100%;
+	height: 100%;
+}
+.nav a {
+	color: #BDBDBD !important;
+}
+.site-content .nav {
+	border-bottom: 1px solid #4CBB17; /*#FF6F00;*/
+}
+.nav .active {
+	border-bottom: 2px solid #4CBB17; /*#FF6F00;*/
+	color: #212121 !important;
+}
+.site-content {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.site-content a {
+	color: #212121;
+}
+.btn-design {
+	border-radius: 4px !in;
+	box-shadow: none;
+	border: 1px solid #FFC107;
+	background-color: white;
+	color: #212121;
+}
+.btn-design:hover {
+	border: 1px solid #4CBB17; /*#FF6F00;*/
+	background-color: #4CBB17; /*#FF6F00;*/
+	color: white;
+}
+#content1 {
+	padding-left: 2px;
+	padding-right: 2px;
+}
+#content2 {
+	padding-left: 2px;
+	padding-right: 2px;
+}
+#content3 {
+	padding-left: 2px;
+	padding-right: 2px;
+}
+.content-item {
+	margin-top: 15px;
+	padding: 0 6px 0 6px;
+}
+.card h4 {
+	font-size: 20px;
+}
+.card h6 {
+	font-size: 13px;
+	color: #757575;
+}
+.product-picture {
+	width: 228px;
+}
+.old-price {
+	font-size: 12px;
+	color: #BF360C;
+	text-decoration: line-through;
+}
+.new-price {
+	font-weight: bold;
+}
+.card .btn {
+	margin-top: 15px;
+	background-color: white;
+	border: 1px solid #4CBB17; /*#FF6F00;*/
+	color: #212121;
+	box-shadow: none;
+	font-weight: normal;
+}
+.card .btn:hover {
+	background-color: #4CBB17; /*#FF6F00;*/
+	color: white;
+}
+#main-footer {
+	font-size: 12px;
+	color: grey;
+}
+.submitprice {
+	margin-right: .3rem;
+}
+.carousel-inner {
+	border-radius: 10px;
+	box-shadow: 0px 10px 43px -20px rgba(135,135,135,1);
+}
+.open-button{
+	transition: background-color 0.3s ease;
+	position:fixed;
+	width:160px;
+	height:60px;
+	bottom:20px;
+	right:20px;
+	background-color:#4CBB17;
+	color:#FFF;
+	border-radius:50px;
+	text-align:center;
+	box-shadow: 2px 2px 3px rgba(0,0,0,0.5);
+}
+.open-button:hover {
+	transition: background-color 0.2s ease;
+	background-color:#3d9912;
+	color:#FFF;
+	text-decoration: none;
+}
+.close-button{
+	transition: background-color 0.3s ease;
+	position:fixed;
+	width:60px;
+	height:60px;
+	bottom:20px;
+	right:20px;
+	background-color:#ff3333;
+	color:#FFF;
+	border-radius:50px;
+	text-align:center;
+	box-shadow: 2px 2px 3px rgba(0,0,0,0.5);
+}
+.close-button:hover {
+	transition: background-color 0.2s ease;
+	background-color:#b30000;
+	color:#FFF;
+	text-decoration: none;
+}
+.my-float{
+	margin-top:22px;
+}
+
+/*CHAT PHERIPERALS*/
+/*{box-sizing: border-box;}*/
+/* The popup chat - hidden by default */
+.chat-popup {
+	display: none;
+	position: fixed;
+	bottom: 100px;
+	right: 20px;
+	box-shadow: 0px 10px 43px -20px rgba(135,135,135,1);
+	border-radius: 20px;
+	width: 350px;
+	height: 72%;
+}
+
+/* Add styles to the form container */
+.form-container {
+  	max-width: 350px;
+  	padding: 1rem;
+  	background-color: white;
+  	border-radius: 20px;
+}
+
+#message-content{
+	width: 100%;
+	display: inline-block;
+	height: 100%;
+	padding-left: 0;
+	padding-right: 0;
+	padding-bottom: 0;
+}
+
+.chatbar {
+	padding: 0;
+	text-align: center;
+	display: inline-block;
+}
+
+/* Full-width textarea */
+.form-container textarea {
+	width: 100%;
+  	padding-left: .7rem;
+  	border: none;
+  	background: #f1f1f1;
+  	resize: none;
+  	height: 2rem;
+  	border-radius: 10px 0 0 10px;
+}
+
+/* When the textarea gets focus, do something */
+.form-container textarea:focus {
+  	background-color: #ddd;
+  	outline: none;
+}
+
+/* Set a style for the submit/login button */
+.form-container .btn {
+	transition: opacity 0.3s ease;
+  	background-color: #4CAF50;
+  	color: white;
+  	border: none;
+  	cursor: pointer;
+  	height: 2rem;
+  	width: 100%;
+  	opacity: 0.8;
+  	border-radius: 0 10px 10px 0;
+}
+
+/* Add some hover effects to buttons */
+.form-container .btn:hover, .open-button:hover {
+	transition: opacity 0.2s ease;
+  	opacity: 1;
+}
+
+.chatbox {
+	height: 90%;
+	padding-bottom: 0;
+}
+.chat-container {
+	margin: 0;
+	padding-bottom: 0;
+	height: 100%;
+}

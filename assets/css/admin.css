@@ -1,0 +1,9 @@
+.option {
+	border-radius: 100px;
+	width: 150px;
+	height: 150px;
+	margin: 0 1rem 0 0;
+}
+.option-img {
+	width: 30%;
+}

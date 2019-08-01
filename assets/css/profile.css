@@ -1,0 +1,29 @@
+body {
+	font-family: Lato;
+	background: url("../images/bg.jpg"); 
+	padding-top: 40px;
+}
+.profile-box {
+	background-color: #FFF;
+	border-radius: 4px;
+	box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.22);
+	padding: 20px 40px 10px 40px;
+	height: 550px;
+}
+.sidebar {
+	background-color: lightgrey;
+	height: 510px;
+	margin-top: 0;
+	padding-top: 2rem;
+}
+.rounded-circle {
+	width: 200px;
+	margin: auto;
+}
+.data {
+	padding-left: 2rem;
+	padding-top: 2rem;
+}
+p {
+	color: grey;
+}
