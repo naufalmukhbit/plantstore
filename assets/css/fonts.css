@@ -1,28 +1,4 @@
 @font-face {
-	font-family: Lato;
-	font-weight: normal;
-	font-style: normal;
-	src: url("../fonts/Lato/Lato-Regular.ttf");
-}
-@font-face {
-	font-family: Lato;
-	font-weight: normal;
-	font-style: italic;
-	src: url("../fonts/Lato/Lato-Italic.ttf");
-}
-@font-face {
-	font-family: Lato;
-	font-weight: bold;
-	font-style: normal;
-	src: url("../fonts/Lato/Lato-Bold.ttf");
-}
-@font-face {
-	font-family: Lato;
-	font-weight: bold;
-	font-style: italic;
-	src: url("../fonts/Lato/Lato-BoldItalic.ttf");
-}
-@font-face {
 	font-family: Nunito;
 	font-weight: normal;
 	font-style: normal;

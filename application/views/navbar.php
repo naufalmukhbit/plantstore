@@ -1,9 +1,13 @@
 <!--Navigation Bar-->
-<nav class="navbar navbar-expand-lg navbar-light fixed-top">
+<nav class="navbar navbar-expand-lg navbar-light fixed-top navbar-transparent">
 	<div class="container-fluid">
 		<div class="navbar-header">
 			<a href="<?php echo site_url('Home/index'); ?>">
-				<img class="navbar-brand" src="<?php echo base_url(); ?>assets/images/logo.png">
+				<?php if($filename == 'article') {
+					echo '<img class="navbar-brand" src="' . base_url() . 'assets/images/logo-white.png">';
+				} else {
+					echo '<img class="navbar-brand" src="' . base_url() . 'assets/images/logo.png">';
+				}?>
 			</a>
 		</div>
 		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-contents">

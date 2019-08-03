@@ -42,73 +42,6 @@ $this->load->view('header');
 			</div>
 		</div>
 		
-
-		<!-- Category Buttons
-		<div class="container mt-5 text-center categories">
-			<div class="row">
-				<div class="col-sm-2">
-					<a href="#">
-						<div class="card">
-							<img class="card-img-top" src="<?php echo base_url(); ?>assets/images/img-not-available-sq.jpg">
-							<span class="my-2">
-								T-Shirt
-							</span>
-						</div>
-					</a>
-				</div>
-				<div class="col-sm-2">
-					<a href="#">
-						<div class="card">
-							<img class="card-img-top" src="<?php echo base_url(); ?>assets/images/img-not-available-sq.jpg">
-							<span class="my-2">
-								Shirt
-							</span>
-						</div>
-					</a>
-				</div>
-				<div class="col-sm-2">
-					<a href="#">
-						<div class="card">
-							<img class="card-img-top" src="<?php echo base_url(); ?>assets/images/img-not-available-sq.jpg">
-							<span class="my-2">
-								Pants
-							</span>
-						</div>
-					</a>
-				</div>
-				<div class="col-sm-2">
-					<a href="#">
-						<div class="card">
-							<img class="card-img-top" src="<?php echo base_url(); ?>assets/images/img-not-available-sq.jpg">
-							<span class="my-2">
-								Dress
-							</span>
-						</div>
-					</a>
-				</div>
-				<div class="col-sm-2">
-					<a href="#">
-						<div class="card">
-							<img class="card-img-top" src="<?php echo base_url(); ?>assets/images/img-not-available-sq.jpg">
-							<span class="my-2">
-								Accessories
-							</span>
-						</div>
-					</a>
-				</div>
-				<div class="col-sm-2">
-					<a href="#">
-						<div class="card">
-							<img class="card-img-top" src="<?php echo base_url(); ?>assets/images/img-not-available-sq.jpg">
-							<span class="my-2">
-								Others
-							</span>
-						</div>
-					</a>
-				</div>
-			</div>
-		</div> -->
-		
 		<!--Contents-->
 		<div class="container site-content">
 			<div class="row">
@@ -264,32 +197,7 @@ $this->load->view('header');
 				</div>
 			</div>
 		</div>
-		<div id="chat-button">
-			<a onclick="openForm()" href="javascript:void(0);" class="float open-button">
-				<i class="fa fa-comment-dots my-float"></i>
-				<span class="ml-1">Chat with bot</span>
-			</a>
-		</div>
-		<div class="chat-popup form-container" id="myForm">
-			<h3 style="padding-left: 10px;">Chat</h3>
-			<div class="container" id="message-content">
-				<div class="chat-container">
-					<script src="<?php echo base_url(); ?>assets/vendor/chatroom-master/dist/Chatroom.js"></script>
-					<script type="text/javascript">
-					    window.chatroom = new window.Chatroom({
-					        title: "Chat with a bot",
-					        container: document.querySelector(".chat-container"),
-					        welcomeMessage: "Hai, dengan bot di sini. Ada yang bisa dibantu, kak?",
-					        host: "http://localhost:5005",
-					    });
-					    window.chatroom.openChat();
-					    var element = document.getElementById("speech-input");
-    					element.parentNode.removeChild(element);
-					</script>
-				</div>
-			</div>
-		</div>
 <?php
-// $this->load->view('chat');
+$this->load->view('chat');
 $this->load->view('footer');
 ?>

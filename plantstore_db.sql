@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Jul 14, 2019 at 04:35 PM
+-- Generation Time: Aug 03, 2019 at 12:13 PM
 -- Server version: 10.1.39-MariaDB
 -- PHP Version: 7.3.5
 
@@ -50,6 +50,27 @@ INSERT INTO `address_data` (`address_id`, `userid`, `address`, `city`, `province
 -- --------------------------------------------------------
 
 --
+-- Table structure for table `article_data`
+--
+
+CREATE TABLE `article_data` (
+  `article_id` int(7) NOT NULL,
+  `title` varchar(50) NOT NULL,
+  `text_src` varchar(30) NOT NULL,
+  `img_src` varchar(30) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+--
+-- Dumping data for table `article_data`
+--
+
+INSERT INTO `article_data` (`article_id`, `title`, `text_src`, `img_src`) VALUES
+(1, 'Menanam Tomat secara Hidroponik dalam Botol Bekas', 'art1.txt', 'art_bg1.jpg'),
+(2, 'Cara Menanam Tomat Hidroponik dalam Polybag', 'art2.txt', 'art_bg2.jpg');
+
+-- --------------------------------------------------------
+
+--
 -- Table structure for table `cart`
 --
 
@@ -90,7 +111,8 @@ INSERT INTO `id_data` (`userid`, `username`, `email`, `password`) VALUES
 (3, 'naufalmukhbit', 'nmukhbit@gmail.com', '120jets'),
 (18, 'flipflop', 'flip@flop.com', 'flip123'),
 (33, 'bjsck', 'knsck@cn.com', 'bbb'),
-(34, 'paymukh', 'nopayers@gmail.com', 'replokmania');
+(34, 'paymukh', 'nopayers@gmail.com', 'replokmania'),
+(35, 'ulalala', 'ulala@ulala.com', 'ulaula');
 
 -- --------------------------------------------------------
 
@@ -144,7 +166,8 @@ INSERT INTO `profile_data` (`userid`, `name`, `bdate`, `gender`, `phone`, `disp_
 (3, 'Naufal Mukhbit A', '2018-05-16', 'Laki-laki', '0821-1443-505', '632912.jpg'),
 (18, 'James Gullivan', '1995-03-23', 'Laki-laki', '080866662222', ''),
 (33, 'efafw', '2018-05-01', 'Laki-laki', '2424-2142-422', '2015-03-28_02_37_01_2.jpg'),
-(34, 'Naufal Mukhbit', '1998-08-27', 'Laki-laki', '0882-1858-490', '');
+(34, 'Naufal Mukhbit', '1998-08-27', 'Laki-laki', '0882-1858-490', ''),
+(35, 'ulala', '2019-08-13', 'Laki-laki', '0824-4143-253', '');
 
 -- --------------------------------------------------------
 
@@ -176,6 +199,12 @@ ALTER TABLE `address_data`
   ADD PRIMARY KEY (`address_id`);
 
 --
+-- Indexes for table `article_data`
+--
+ALTER TABLE `article_data`
+  ADD PRIMARY KEY (`article_id`);
+
+--
 -- Indexes for table `id_data`
 --
 ALTER TABLE `id_data`
@@ -204,10 +233,16 @@ ALTER TABLE `address_data`
   MODIFY `address_id` int(7) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=5;
 
 --
+-- AUTO_INCREMENT for table `article_data`
+--
+ALTER TABLE `article_data`
+  MODIFY `article_id` int(7) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=3;
+
+--
 -- AUTO_INCREMENT for table `id_data`
 --
 ALTER TABLE `id_data`
-  MODIFY `userid` int(5) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=35;
+  MODIFY `userid` int(5) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=36;
 
 --
 -- AUTO_INCREMENT for table `product`

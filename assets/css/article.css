@@ -1,0 +1,71 @@
+body, html {
+	height: 100%;
+}
+body {
+	font-family: Nunito; 
+	background-image: url("../images/bg.png");
+}
+.content {
+	height: 100%;
+}
+.bg-image {
+	width: 100%;
+	height: 69%;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: 100%;
+	box-shadow: inset 0px -15px 10px -9px rgba(0,0,0,0.35);
+}
+.navbar-transparent {
+	background-color: rgba(0, 0, 0, 0) !important;
+	background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0)) !important;
+	transition: background-color 0.3s ease;
+}
+.navbar-transparent .reg-btn {
+	background-color: white;
+	color: black;
+}
+.navbar-transparent #login-btn a {	
+	color: white !important;
+}
+.navbar-transparent .fa-star {
+	color: white;
+	transition: color 0.3s ease;
+}
+.navbar-transparent .fa-shopping-cart {
+	color: white;
+	transition: color 0.3s ease;
+}
+.inner-content {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	top: 25%;
+}
+.article-content {
+	background-color: white;
+	left: 20%;
+	padding: 10vh;
+	padding-top: 7vh;
+	width: 60%;
+	border-radius: 7px;
+	margin-bottom: 60px;
+	box-shadow: 0px 5px 20px -8px rgba(0,0,0,0.5);
+}
+ol, ul {
+	list-style-position: inside;
+	padding: 0;
+}
+.content-images-left {
+	float: left; 
+	margin-right: 20px;
+	width: 50%;
+}
+.content-images-right {
+	float: right;
+	margin-left: 20px;
+	width: 50%;
+}
+#main-footer {
+	bottom: 0;
+}

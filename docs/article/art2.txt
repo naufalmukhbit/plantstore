@@ -1,0 +1,91 @@
+<p>
+	Tomat dengan nama Latin Solanum lycopersicum adalah tumbuhan dengan siklus hidup yang singkat. Tumbuhan yang berasal dari kata tomati ini pertama kali ditemukan di kawasan Amerika Tengah dan Selatan, dari Meksiko hingga Peru. Di Indonesia, tomat biasa dianggap sebagai buah ataupun sayur yang dipakai dalam masakan atau dimakan langsung tanpa diolah maupun diproses.
+	<br><br>
+	Tercatat pada berbagai literatur luar negeri bahwa tingkat produksi tomat di negeri kincir angin, Belanda, adalah 42 kg/m<sup>2</sup>/tahun. Seorang ahli hidroponik di Indonesia, Yos Sutiyoso, menyebutkan pula bahwa pada literatur lain terdapat angka produktivitas tomat pada kebun tertentu mencapai 67 kg/m<sup>2</sup>/tahun.
+	<br><br>
+	Tingkat produktivitas tomat dengan angka yang jelas fantastis tersebut semuanya dihasilkan dengan budidaya dengan metode hidroponik di dalam rumah kaca atau green house dengan proses pemeliharaan yang dibantu oleh teknologi mutakhir yang semuanya bekerja secara sistematis.
+	<br><br>
+	Mengetahui hal tersebut, nampaknya jelas sekali kalau indonesia masih tertinggal sangat jauh. Tapi tak ada alasan untuk berhenti berharap, semua orang yang tinggal di Indonesia yang mempunyai hobi bercocok tanam bisa menggunakan angka-angka produktivitas tersebut untuk memacu semangat produksi budidaya hidroponik, terutama tomat.
+	<br><br>
+	Tomat yang diproduksi dengan konsep hidroponik membawa hasil budidaya yang sehat dan tidak mengandung logam berat yang tidak disukai. Selain itu, tomat yang dibudidayakan dengan cara hidroponik juga tidak mengandung mikroorganisme, seperti E.Coli. Oleh sebab itu, pada tulisan ini, kami akan mengajak Anda untuk memulai budidaya tomat dengan langkah permulaan yang bisa diterapkan di rumah.
+</p>
+<h3>Cara Menanam Tomat Hidroponik dalam Polybag</h3>
+<img src="<?php echo base_url(); ?>docs/article-pictures/art2_001.jpg" style="margin-bottom: 20px;">
+<p>
+	Berikut panduan selengkapnya mengenai cara menanam tomat hidroponik dalam polybag secara sederhana yang bisa dilakukan di rumah meskipun tidak mempunyai pekarangan rumah dengan lahan tanah yang cukup luas. Apa saja dan bagaimana langkah-langkahnya?
+</p>
+<h4><b># Tahap 1: Pemilihan Jenis Tanaman</b></h4>
+<p>
+	Langkah pertama, Anda harus mengetahui jenis-jenis tomat sehingga bisa menyesuaikannya dengan keinginan. Dikutip langsung dari Wikipedia mengenai buah tomat, dari ukuran dan bentuknya, tomat dibagi ke dalam beberapa kelompok seperti berikut:
+</p>
+<ul>
+	<li>
+		Tomat granola yang mempunyai bentuk bulat dengan bagian dasar mendatar. Granola dianggap secara umum sebagai tomat buah karena bisa dimakan langsung.
+	</li>
+	<li>
+		Tomat gondol yang termasuk ke dalam tomat buah, biasa digunakan sebagai saus. Bentuknya lonjong oval yang berasal dari keturunan kultivar impor Roma.
+	</li>
+	<li>
+		Tomat sayur yang terasa padat bila digenggam dan kerap dipakai ke dalam masakan.
+	</li>
+	<li>
+		Tomat ceri atau tomat ranti dengan ukuran kecil yang tersusun berangkai pada tangkai buah yang panjang.
+	</li>
+</ul>
+<p>
+	Setelah mengetahui keempat golongan tomat, sekarang Anda bisa membeli benih tomat yang diinginkan. Untuk mendapatkan hasil tanaman yang berkualitas, maka gunakan bibit unggul yang bisa diperoleh di toko-toko pertanian. Setiap kemasan benih tertera sifat-sifat tanaman pada bagian labelnya untuk memudahkan Anda mengenal hasil tanaman tersebut nantinya.
+</p>
+<h4><b># Tahap 2: Penyemaian Benih Tomat</b></h4>
+<p>
+	Jika sudah selesai mendapatkan benih tomat unggul, maka cara menanam tomat dalam polybag yang berikutnya sama seperti cara berkebun hidroponik pada umumnya, yakni melakukan penyemaian benih. Benih yang berbentuk biji bisa disemaikan dalam media semai berupa polybag, rak semai, ataupun bedengan.
+	<br><br>
+	Namun sebelumnya, Anda harus menyeleksi terlebih dahulu benih tomat yang ingin disemai. Biji yang tidak baik harus disingkirkan, ambil benih yang sehat saja untuk ditanam. Untuk mengetahuinya, Anda bisa merendam benih terlebih dahulu ke dalam larutan air hangat. Untuk hasil bibit yang lebih bagus, disarankan untuk menambahkan ZPT dan fungisida. Lakukan perendaman benih selama 24 jam, kemudian buang benih yang mengapung.
+	<br><br>
+	Setelah memperoleh benih yang Sekarang Anda sudah bisa melakukan penyemaian benih. Ambil polybag dan isi dengan media persemaian lalu benamkan benih tomat hingga 1 cm ke dalam media persemaian. Tutup permukaan dan siram secukupnya. Setiap polybag hanya perlu diisi satu benih. Penyiraman dilakukan 2 kali sehari dengan embrat.
+	<br><br>
+	Selain polybag, Anda juga bisa menyemai benih dengan media tanam rockwool. Pertama-tama keringkan biji tomat, lalu semai dalam wadah plastik berbentuk kotak-kotak kecil yang menampung media sekam. Siram juga secukupnya. Lakukan penyemaian selama kurang lebih 1– 2 bulan, atau setidaknya sudah memiliki 5 helai daun sebelum dipindahkan ke media pertumbuhan sesungguhnya.
+</p>
+<h4><b># Tahap 3: Pembuatan Media Tanam Polybag</b></h4>
+<p>
+	Langkah berikutnya pada cara menanam tomat hidroponik yang harus Anda lakukan adalah menyiapkan media tanam dan polybag. Gunakan media tanam berupa campuran arang sekam yang dibuat sendiri dengan cara membakar padi kering dengan tanah dan kompos. Perbandingan ketiganya adalah 2:1:1.
+	<br><br>
+	Hitung jumlah benih yang sedang disemai, samakan dengan polybagnya. Setiap polybag nanti akan diisi dengan satu benih tanaman. Masing-masing polybag diisi dengan campuran media tanam tadi, susun berjejer. Jangan lupa, pilih polybag dengan ketinggian cukup, antara 30 – 35 cm.
+</p>
+<h4><b># Tahap 4: Pemindahan Bibit Tomat</b></h4>
+<p>
+	Ada dua cara untuk memindahkan benih tomat dari tempat persemaian ke dalam polybag yang siap pakai untuk pertumbuhan tanaman:
+</p>
+<ul>
+	<li>
+		Pertama, bisa dengan mencabut bibit dengan cara menyiram media tanam pada tempat persemaian dengan air agar menjadi lunak, lalu cabut tanaman dengan hati-hati, jangan sampai akarnya putus ataupun rusak. Setelah itu, pindah masukkan tanaman secara tegak lurus pada lubang tanam yang ada di dalam polybag. Posisi akar pastikan tegak lurus, jangan ada bengkok ataupun terlipat. Bila akarnya panjang, maka atur kembali kedalaman lubang tanam agar sesuai.
+	</li>
+	<li>
+		Kedua, Anda bisa memindahkan bibit dengan cara diputar. Tanaman tomat diangkat bersama dengan media yang di sekitarnya. Untuk media tanam tanah pada polybag semai, Anda bisa mengambil bibit siap tanam dengan memindahkan tanaman beserta tanahnya ke dalam polybag pertumbuhan. Polybag yang sudah dipakai untuk menyemai benih tadi bisa dipakai berulang-ulang.
+	</li>
+</ul>
+<h4><b># Tahap 5: Pemberian Nutrisi</b></h4>
+<p>
+	Sistem hidroponik yang lebih tepat untuk pembudidayaan tomat secara hidroponik adalah dengan drip irrigation system yang menggunakan pompa. Namun karena besar kemungkinan menyulitkan Anda, maka Anda cukup menggunakan embrat yang berisikan larutan nutrisi tanaman hidroponik.
+	<br><br>
+	Pupuk yang digunakan bisa Anda buat sendiri dari pupuk nutrisi khusus tanaman hidroponik, seperti Nutrisi AB Mix dan Lewatit HD-5. Pemberian nutrisi bisa dilakukan 2 – 4 kali sehari. Konsentrasi nutrisi untuk fase vegetatif dan generatif sangat berbeda, karena bersinggungan langsung dengan umur tanaman, terutama untuk fase vegetatifnya.
+</p>
+<h4><b># Tahap 6: Pemeliharaan dan Pengecekan Tanaman</b></h4>
+<p>
+	Kegiatan pemeliharaan dan pengecekan tanaman harus lebih sering dilakukan agar menghasilkan tomat yang benar-benar unggul dari segi kualitas. Beberapa hal yang bisa Anda lakukan pada tahap ini adalah memeriksa secara rutin apakah ada daun-daun tomat tua yang berjatuhan di media tanam untuk dibuang.
+	<br><br>
+	Selain itu, Anda juga perlu mengecek keberadaan serangga atau hama yang bisa merusak tanaman. Jika ada tomat yang busuk, bisa langsung dibuang. Jaga selalu media tanam agar tidak kering, siram rutin dan jangan terlalu basah untuk menghindari busuk akar.
+	<br><br>
+	Siangi gulma yang terdapat pada polybag secara teratur. Jika terliha tanaman yang layu ataupun mati, segera singkirkan dengan cara dicabut bersama media tanamnya agar tidak menulari tanaman lain. Pastikan juga agar tanaman pada satu polybag dengan yang lain tidak bersinggungan demi terjaganya kualitas tanaman pada masing-masing polybag.
+	<br><br>
+	Usir selalu hama secara manual. Buang daun atau batang yang dirusak oleh hama. Anda bisa menggunakan pestisida organik yang lebih aman untuk kesehatan dan lingkungan untuk menyemprot hama tanaman seperti ulat buah, ulat tanah, kutu daun hijau, lalat putih, dan lalat buah.
+</p>
+<h4><b># Tahap 7: Pemanenan</b></h4>
+<p>
+	Tahap panen tomat dalam polybag bis dilakukan setelah 2 – 3 bulan benih semai ditanam dan dirawat, itupun tergantung dari varietasnya. Ciri-ciri tomat yang siap panen bisa dilihat pada warna buah yang berubah dari hijau ke kuning-kuningan atau pada tepi daun terlihat kering dan batang sudah menguning.
+	<br><br>
+	Petik buah tomat yang benar-benar matang, jangan semuanya karena tomat tidak matang secara serentakan. Proses pemetikan bisa dilakukan setiap 2 – 3 hari sekali dan jangan terlalu sering untuk menghindari kerusakan tanaman. Waktu pemetikan yang baik adalah di pagi dan sore hari dimana matahari sedang tidak terik.
+	<br><br>
+	Satu tanaman hidroponik bisa dilakukan panen sebanyak 2 kali selama rentang waktu 10 bulan. Setelah melewati masa tersebut, tanaman harus diganti dengan bibit yang baru. Tomat yang telah dipetik sebaiknya tidak dicuci dengan air agar tidak cepat busuk. Untuk membersihkannya cukup dilap dan dibersihkan dengan kain kering yang kemudian bisa disimpan atau dikemas jika ingin dipasarkan.
+	<br><br>
+	Jika Anda masih pemula, mungkin cara menanam tomat hidroponik dalam polybag yang telah diuraikan di atas bisa menjadi panduan yang paling mudah. Sekadar informasi, selain di polybag, tomat juga bisa ditanam hidroponik dengan botol bekas.
+</p>

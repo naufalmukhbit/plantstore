@@ -32,6 +32,8 @@
 	?>
 	<!--Navbar CSS-->
 	<link rel="stylesheet" type="text/css" href="<?php echo base_url(); ?>assets/css/navbar.css">
+	<!--Chatroom CSS-->
+	<link rel="stylesheet" type="text/css" href="<?php echo base_url(); ?>assets/css/chat.css">
 	<link rel="stylesheet" type="text/css" href="<?php echo base_url(); ?>assets/vendor/chatroom-master/dist/Chatroom.css">
     <link rel="stylesheet" type="text/css" href="<?php echo base_url(); ?>assets/vendor/chatroom-master/index.css">
 </head>

@@ -1,99 +1,25 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Chat</title>
-    <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
-    <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
-    <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
-    <link rel="stylesheet" type="text/css" href="<?php echo base_url()?>'assets/css/chat.css">
-</head>
-<body>
-    <div class="col-sm-3 col-sm-offset-4 frame">
-        <ul></ul>
-        <div>
-            <div class="msj-rta macro" style="margin:auto">                        
-                <div class="text text-r" style="background:whitesmoke !important">
-                    <input class="mytext" placeholder="Type a message"/>
-                </div> 
-            </div>
+<div id="chat-button">
+    <a onclick="openForm()" href="javascript:void(0);" class="float open-button">
+        <i class="fa fa-comment-dots my-float"></i>
+        <span class="ml-1">Chat with bot</span>
+    </a>
+</div>
+<div class="chat-popup form-container" id="myForm">
+    <h3 style="padding-left: 10px;">Chat</h3>
+    <div class="container" id="message-content">
+        <div class="chat-container">
+            <script src="<?php echo base_url(); ?>assets/vendor/chatroom-master/dist/Chatroom.js"></script>
+            <script type="text/javascript">
+                window.chatroom = new window.Chatroom({
+                    title: "Chat with a bot",
+                    container: document.querySelector(".chat-container"),
+                    welcomeMessage: "Hai, dengan bot di sini. Ada yang bisa dibantu, kak?",
+                    host: "http://localhost:5005",
+                });
+                window.chatroom.openChat();
+                var element = document.getElementById("speech-input");
+                element.parentNode.removeChild(element);
+            </script>
         </div>
     </div>
-    <script type="text/javascript">
-        var me = {};
-
-        var you = {};
-
-        function formatAMPM(date) {
-            var hours = date.getHours();
-            var minutes = date.getMinutes();
-            var ampm = hours >= 12 ? 'PM' : 'AM';
-            hours = hours % 12;
-            hours = hours ? hours : 12; // the hour '0' should be '12'
-            minutes = minutes < 10 ? '0'+minutes : minutes;
-            var strTime = hours + ':' + minutes + ' ' + ampm;
-            return strTime;
-        }            
-
-        //-- No use time. It is a javaScript effect.
-        function insertChat(who, text, time = 0){
-            var control = "";
-            var date = formatAMPM(new Date());
-            
-            if (who == "me"){
-                
-                control = '<li style="width:100%">' +
-                                '<div class="msj macro">' +
-                                    '<div class="text text-l">' +
-                                        '<p>'+ text +'</p>' +
-                                        '<p><small>'+date+'</small></p>' +
-                                    '</div>' +
-                                '</div>' +
-                            '</li>';                    
-            }else{
-                control = '<li style="width:100%;">' +
-                                '<div class="msj-rta macro">' +
-                                    '<div class="text text-r">' +
-                                        '<p>'+text+'</p>' +
-                                        '<p><small>'+date+'</small></p>' +
-                                    '</div>' +
-                                '<div class="avatar" style="padding:0px 0px 0px 10px !important"></div>' +                                
-                          '</li>';
-            }
-            setTimeout(
-                function(){                        
-                    $("ul").append(control);
-
-                }, time);
-            
-        }
-
-        function resetChat(){
-            $("ul").empty();
-        }
-
-        $(".mytext").on("keyup", function(e){
-            if (e.which == 13){
-                var text = $(this).val();
-                if (text !== ""){
-                    insertChat("me", text);              
-                    $(this).val('');
-                }
-            }
-        });
-
-        //-- Clear Chat
-        resetChat();
-
-        //-- Print Messages
-        insertChat("me", "Hello Tom...", 0);  
-        insertChat("you", "Hi, Pablo", 1500);
-        insertChat("me", "What would you like to talk about today?", 3500);
-        insertChat("you", "Tell me a joke",7000);
-        insertChat("me", "Spaceman: Computer! Computer! Do we bring battery?!", 9500);
-        insertChat("you", "LOL", 12000);
-
-
-        //-- NOTE: No use time on insertChat.
-    </script>
-</body>
-</html>
+</div>
