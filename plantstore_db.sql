@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Aug 03, 2019 at 12:13 PM
+-- Generation Time: Aug 04, 2019 at 04:12 AM
 -- Server version: 10.1.39-MariaDB
 -- PHP Version: 7.3.5
 
@@ -55,9 +55,9 @@ INSERT INTO `address_data` (`address_id`, `userid`, `address`, `city`, `province
 
 CREATE TABLE `article_data` (
   `article_id` int(7) NOT NULL,
-  `title` varchar(50) NOT NULL,
-  `text_src` varchar(30) NOT NULL,
-  `img_src` varchar(30) NOT NULL
+  `title` varchar(100) NOT NULL,
+  `text_src` varchar(15) NOT NULL,
+  `img_src` varchar(15) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
 --
@@ -66,7 +66,13 @@ CREATE TABLE `article_data` (
 
 INSERT INTO `article_data` (`article_id`, `title`, `text_src`, `img_src`) VALUES
 (1, 'Menanam Tomat secara Hidroponik dalam Botol Bekas', 'art1.txt', 'art_bg1.jpg'),
-(2, 'Cara Menanam Tomat Hidroponik dalam Polybag', 'art2.txt', 'art_bg2.jpg');
+(2, 'Cara Menanam Tomat Hidroponik dalam Polybag', 'art2.txt', 'art_bg2.jpg'),
+(3, 'Cara Menanam Cabe Hidroponik Dalam Botol', 'art3.txt', 'art_bg3.jpg'),
+(4, 'Cara Menanam Cabe Hidroponik Menggunakan Polybag', 'art4.txt', 'art_bg4.jpg'),
+(5, 'Cara Menanam Sawi Hidroponik dengan Botol Bekas', 'art5.txt', 'art_bg5.jpg'),
+(6, 'Cara Menanam Sawi di Polybag', 'art6.txt', 'art_bg6.jpg'),
+(7, 'Cara Budidaya Kangkung Hidroponik Menggunakan Botol Bekas', 'art7.txt', 'art_bg7.jpg'),
+(8, 'Cara Menanam Kangkung Cabut Dalam Pot atau Polybag', 'art8.txt', 'art_bg8.jpg');
 
 -- --------------------------------------------------------
 
@@ -236,7 +242,7 @@ ALTER TABLE `address_data`
 -- AUTO_INCREMENT for table `article_data`
 --
 ALTER TABLE `article_data`
-  MODIFY `article_id` int(7) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=3;
+  MODIFY `article_id` int(7) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=9;
 
 --
 -- AUTO_INCREMENT for table `id_data`
