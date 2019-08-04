@@ -1,0 +1,55 @@
+<br>
+<p>
+	Kangkung yang memiliki nama latin <i>Ipomoea aquatic sp</i> ini merupakan jenis sayuran yang sangat bergizi dan biasanya diolah menjadi tumis kangkung. Tanaman ini sangat banyak ditemukan di Indonesia dan bisa tumbuh dimana saja. Ada dua jenis kangkung yang biasa kita temui yaitu kangkung sawah dan kangkung darat. Tetapi sekarang kamu tak perlu bingung untuk menanam kangkung. Anda tak membutuhkan lahan yang luas, hanya dengan menggunakan pot atau polybag pun Anda bisa menanam kangkung sendiri di rumah. Dengan kata lain, menanam kangkung di pot atau polybag bisa menjadi alternative yang tepat buat Anda yang tidak mempunyai lahan yang luas.
+</p>
+<figure>
+	<img src="<?php echo base_url(); ?>docs/article-pictures/art8_001.jpg" style="margin-bottom: 5px; width: 100%;">
+	<figcaption style="text-align: center; font-style: italic;">Kangkung cabut dapat dibudidayakan dengan menggunakan polybag.</figcaption>
+</figure><br>
+<figure>
+	<img src="<?php echo base_url(); ?>docs/article-pictures/art8_002.jpg" style="margin-bottom: 5px; width: 100%;">
+	<figcaption style="text-align: center; font-style: italic;">Kangkung cabut juga dapat ditanam dalam pot.</figcaption>
+</figure><br>
+<h3>Manfaat Kangkung Untuk Kesehatan</h3>
+<p>
+	Sebelum membahas mengenai cara menanam kangkung dengan menggunakan polybag atau pot, mungkin kamu harus mengetahui apa saja manfaat kangkung untuk kesehatan.Kangkung dipercaya dapat mengatasi sembelit dengan baik. hal ini dikarenakan kangkung mengandung serat yang sangat tinggi, sehingga membuat sistem pencernaan lancar.
+</p>
+<ul>
+	<li>
+		Di dalam kangkung mengandung zinc dan selenium yang tinggi.zat ini dapat menyebabkan rasa mengantuk. Sehingga membuat kangkung dapat digunakan untuk mengatasi insomnia
+	</li>
+	<li>
+		Kangkung dapat berfungsi untuk menjaga kesehatan mata dan daya tahan tubuh. Hal ini dikarenakan kangkung mengandung vitamin A dan vitamin C yang tinggi
+	</li>
+	<li>
+		Kangkung berfungsi untuk mencegah anemia karena mengandung zat besi yang bisa menambah kandungan hemoglobin di dalam tubuh.
+	</li>
+</ul>
+<p>
+	Itulah beberapa manfaat dari kangkung yang sangat baik untuk kesehatan. Terutama untuk usus dan kesehatan hati Anda. melihat manfaat kangkung yang sangat banyak sekali. Tidak ada salahnya Anda mencoba untuk menanam kangkung sendiri di rumah. Hal ini bisa menjadi hobi yang menyenangkan dan menyehatkan. Oleh karena itu, pada kesempatan kali ini, saya akan membahas cara menanam kangkung cabut dengan menggunakan pot atau polybag.
+</p><br>
+<h4>Persiapan Bibit Kangkung</h4>
+<figure>
+	<img src="<?php echo base_url(); ?>docs/article-pictures/art8_003.jpg" style="margin-bottom: 5px; margin: 0 auto 20px auto; display: block;">
+	<figcaption style="text-align: center; font-style: italic;">Contoh penyemaian biji kangkung. Dalam waktu seminggu, biji kangkung sudah berkecambah dam mulai tumbuh.</figcaption>
+</figure><br>
+<p>
+	Sebenarnya ketika ingin menanam kangkung, Anda bisa langsung menanamnya atau melalui tahap penyemaian terlebih dahulu. Jika Anda memilih untuk melakukan penyemaiannya terlebih dahulu, Anda harus menyiapkan tanah yang sudah digemburkan kemudian ditambahkan dengan pupuk kompos. Buatlah area penyemaian seperti bentuk gundukan tanah atau tegalan. Biarkan area tersebut selama 1 malam, kemudian sebarkan biji kangkung tersebut dan tutup dengan menggunakan jaring-jaring. Lakukan penyiraman dua kali sehari. Biasanya dalam waktu 5 sampai 7 hari sudah mulai tumbuh. Tetapi jika Anda tidak ingin ribet dan susah, Anda bisa langsung menanam bibit kangkung di polybag atau pot tanpa proses penyemaian.
+</p><br>
+<h4>Persiapan Pot Atau Polybag</h4>
+<p>
+	Jika ingin menggunakan pot, Anda harus menggunakan pot yang berlubang di bagian bawahnya. Jika menggunakan polybag pun harus diberi lubang kecil dibagian bawahnya. Jika Anda menggunakan pot atau polybag yang dibeli di pasar biasanya sudah terdapat lubangnya. Tetapi jika Anda membuat pot sendiri, lubang menjadi hal yang penting. Ini berguna untuk resapan air. Setelah itu Anda bisa memasukkan media tanamnya. Media tanamnya bisa menggunakan campuran tanah dan kompos. Untuk perbandingan tanah harus lebih banyak dibandingkan kompos yaitu 2:1. Bisa juga ditambahkan dengan arang sekam tetapi sedikit saja. Setelah polybag atau pot diberi media tanam. Biarkan selama 1 sampai 2 hari terlebih dahulu sebelum ditanam dengan bibit kangkung.
+</p><br>
+<h4>Tahap Menanam Bibit Kangkung</h4>
+<p>
+	Tahapan selanjutnya adalah tahap penanaman. Jika tidak dilakukan proses penyemaian, berarti ketika media tanam sudah siap. Anda tinggal menaruh beberapa bibit di dalam polybag. Tetapi jika Anda melakukan tahap penyemaian, berarti Anda harus memindahkan dari tempat semaian ke pot atau polybag. Ketika melakukan pemindahan harus hati-hati, jangan sampai akarnya rusak karena bisa menganggu proses pertumbuhan. Buatlah lubang di pot atau polybag dengan jari telunjuk. Setiap pot cukup 3 buah lubang saja dan mempunyai kedalaman 10 sampai 15 cm. Masukan dua buah bibit kangkung di setiap lubangnya. Kemudian tutup lubang dengan tanah. Jangan menekan tanah terlalu kencang karena akan membuat bibit kangkung mudah patah. Begitu juga jika menggunakan biji langsung. Anda tinggal memasukkan bibit ke dalam lubang kemudian menutupnya sampai tumbuh kecambah. Jangan lupa untuk selalu tetap menyiramnya dua kali dalam sehari yaitu pada pagi dan siang hari secara rutin. Supaya pertumbuhannya dapat berjalan dengan baik dan tidak kekurangan air.
+</p><br>
+<h4>Tahap Perawatan Tanaman Kangkung</h4>
+<p>
+	Perawatan tanaman kangkung tidaklah sulit. Tanaman ini sangat mudah untuk tumbuh dan tidak mudah terkena hama penyakit. Anda bisa melakukan penyiraman secara rutin sehari dua kali yaitu pada pagi dan sore hari. Jika Anda menanam pada musim hujan, bisa dikurangi penyiramannya. Hal ini dikarenakan jika kangkung mendapatkan terlalu banyak air, akan membuat mudah rusak. Selalu bersihkan rumput dan gulma yang tumbuh di sekitar tanaman kangkung. Adanya gulma dan rumput dapat mencuri nutrisi yang akan didapatkan kangkung, sehingga pertumbuhannya tidak berjalan dengan baik. Selain itu, pemberian pupuk juga harus tetap dilakukan. Akan lebih baik jika Anda memberikan pupuk organik, supaya hasilnya lebih sehat.
+</p><br>
+<h4>Tahap Pemanenan</h4>
+<img src="<?php echo base_url(); ?>docs/article-pictures/art8_004.jpg" style="margin-bottom: 20px; width: 100%;">
+<p>
+	Masa panen tanaman kangkung dapat dilakukan dalam waktu 25 sampai 30 hari. Untuk cara pemanenannya harus langsung dicabut sampai ke akarnya. Tetapi jika Anda ingin memanen dalam dua kali, Anda bisa memotongnya pada bagian batangnya saja. Sekarang Anda bisa menikmati kangkung sendiri di rumah dari hasil kebun Anda sendiri. Mudah bukan? Saya yakin Anda bisa melakukannya sendiri di rumah. Demikian ulasan yang bisa saya berikan kali ini, semoga bisa memberikan informasi yang bermanfaat buat Anda.
+</p>

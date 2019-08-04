@@ -1,0 +1,53 @@
+<br>
+<p>
+	Sawi merupakan sayuran yang disukai banyak orang, dan bisa dikombinasikan dengan makanan lainnya, cara menanamnya pun mudah sehingga anda pun bisa menanamnya sendiri.
+	<br><br>
+	Jika anda tidak memiliki lahan yang luas untuk menanam sayuran, seperti sawi, hal tersebut bukan menjadi kendala, anda bisa menanamnya dalam polybag yang bisa di letakkan di sekitar rumah, sehingga anda bisa mencukupi kebutuhan sayur keluarga melalui tangan anda sendiri.
+</p>
+<img src="<?php echo base_url(); ?>docs/article-pictures/art6_001.jpg" style="margin-bottom: 20px; width: 100%;">
+<p>
+	Sebelum anda memulai menanam sawi, hal penting yang harus anda lakukan adalah memilih benih berkualitas unggul.
+	<br><br>
+	Untuk cara menanam sawi di polybag, mari simak penjelasannya berikut ini.
+</p><br>
+<h4>Tahap penyemaian</h4>
+<p>
+	Sebelum ditanam, benih perlu disemai terlebih dahulu, proses semai diawali dengan penyiapan media  berupa campuran tanah yang sudah diayak, arang sekam dan kompos dengan perbandingan 1:1:1.
+	<br><br>
+	Masukkan media semai berupa campuran tanah, arang sekam dan kompos kedalam pot tray/tray semai kemudian siram air secara merata, tunggu beberapa menit hingga air tidak lagi menetes dari lubang ujung bawah pot tray/ tray semai. 
+	<br><br>
+	Setelah itu buat lubang semai sedalam 0,5 cm, masukkan satu benih pada tiap lubang semai kemudian tutup kembali.
+	<br><br>
+	Untuk mempercepat proses perkecambahan tutup persemaian dengan plastik gelap atau penutup lainnya, dalam waktu 3-4 hari biasanya benih telah berkecambah.
+	<br><br>
+	Rawatlah persemaian dengan baik, persemaian harus terkena sinar matahari langsung, dan hindarkan dari guyuran air hujan.
+	<br><br>
+	Siram persemaian tiap pagi dan sore secara merata, supaya pertumbuhannya optimal antara 3-5 hari harus diberi pupuk.
+</p><br>
+<h4>Tahap penanaman</h4>
+<p>
+	Sekitar 1-2 minggu sebelum pindah tanam, siapkan wadah untuk media tanam berupa polybag , bisa juga menggunakan pot atau yang lainnya, yang terpenting adalah mewadah tersebut memiliki lubang- lubang kecil agar air tidak menggenang.
+	<br><br>
+	Selanjutnya siapkan media tanam berupa campuran tanah, arang sekam dan pupuk kompos dengan perbandingan 1:1:1, kemudian masukkan media tanam ke dalam wadah/polybag.
+	<br><br>
+	Tambahkan juga pupuk NPK sebanyak 1 sendok makan untuk polybag besar dan setengahnya untuk polybag kecil.
+	<br><br>
+	Campurkan pupuk NPK secara merata dengan media tanam yang lain, kemudian disiram, diamkan polybag sekitar 1-2 minggu.
+	<br><br>
+	4 hari setelah semai, bibit sudah siap dipindahkan ke polybag, pindah tanam sebaiknya dilakukan pada sore hari.
+	<br><br>
+	Siram terlebih dahulu bibit yang akan dipindah tanam agar tidak stres, pindahkan bibit satu persatu dengan hati-hati kemudian disiram, penyiraman berikutnya dilakukan 1-2 hari sekali.
+</p>
+<img src="<?php echo base_url(); ?>docs/article-pictures/art6_002.jpg" style="margin-bottom: 20px; width: 100%;">
+<h4>Tahap pemupukan</h4>
+<p>
+	Pupuk susulan berupa NPK diberikan setiap 5-7 hari sekali dengan sistem kocor. Caranya larutkan NPK ke dalam air dengan dosis 1 gram per liter.
+</p><br>
+<h4>Tahap pemanenan</h4>
+<p>
+	Dalam waktu 1 bulan setelah tanam,  sawi sudah dapat dipanen, caranya sawi langsung dicabut atau dipotong dari pangkal batangnya.
+	<br><br>
+	Sawi yang baru dipanen ditempatkan ditempat yang teduh agar tidak cepat layu, jika tidak akan segera dimasak sawi hasil panen bisa disimpan 1-2 hari dalam lemari pendingin.
+	<br><br>
+	Demikian cara menanam sawi di polybag, semoga menjadi inspirasi dan bermanfaat untuk anda semua.
+</p>

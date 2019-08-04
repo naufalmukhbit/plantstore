@@ -1,0 +1,62 @@
+<br>
+<img src="<?php echo base_url(); ?>docs/article-pictures/art4_001.jpg"class="content-images content-images-left">
+<p>
+	Budidaya cabe bukan hal yang sulit tapi juga tidak terlalu mudah. Namun dengan langkah penanaman dan perawatan yang tepat, Anda dapat memanen cabe dengan kualitas yang tidak mengecewakan. Ada banyak cara budidaya cabe, salah satunya dengan menanam cabe dalam polybag dengan metode hidroponik dan Anda dapat melakukannya sendiri di rumah. Berikut tahap-tahap metode hidroponik tanaman cabe tersebut.
+</p><br>
+<h3><b>1. Persiapan</b></h3>
+<p>
+	Metode hidroponik merupakan metode menanam tanpa menanam di tanah melainkan menggunakan media tanam pengganti seperti arang sekam, pasir, kerikil, rockwool atau serbuk kayu. Metode hidroponik yang mudah untuk dilakukan pada skala kecil atau skala rumah tangga adalah sistem substrat atau agregat menggunakan kultur polybag.
+	<br><br>
+	Kultur polybag merupakan metode hidroponik sederhana yang disarankan bagi pemula karena sistem ini lebih mudah dan tidak memiliki resiko gagal yang tinggi. Kultur polybag merupakan budidaya tanaman menggunakan media pengganti tanah seperti arang sekam dalam kantong plastik (polybag). Cara penyiraman atau pengairan umumnya menggunakan teknik drip (tetes) menggunakan pipa atau selang plastik.
+	<br><br>
+	Langkah-langkah persiapan penanaman adalah sebagai berikut.
+</p>
+<h4><b>Pemilihan Benih Cabe</b></h4>
+<p>
+	Rendam benih cabe dalam air hangat selama kurang lebih 3 jam. Biji yang tenggelam pada umumnya lebih baik untuk ditanam dibanding yang tidak tenggelam.
+</p>
+<h4><b>Penyemaian Benih Cabe</b></h4><br>
+<h5>1. Pembuatan Media Semai</h5>
+<p>
+	Campur tanah bagian atas (top soil atau berhumus) dengan pupuk kompos atau pupuk kandang dan arang sekam dengan komposisi perbandingan 1:1:1. Masukkan media semai ke dalam polybag mini (ukuran 8 x 9 cm). Anda juga dapat menggunakan baki (seedling tray).
+</p>
+<h5>2. Penanaman Biji</h5>
+<p>
+	Tanam setiap biji cabe ke dalam polybag mini (satu cabe dalam 1 polybag). Buat lubang sedalam 0,5 cm di tengah media semai. Media semai dibasahi sedikit untuk menjaga kelembaban.
+</p>
+<h5>3. Perawatan Bibit</h5>
+<p>
+	Bibit disiram setiap pagi dan sore hari menggunakan semprotan halus agar tidak merusak bibit dan media semai. Tips penyiraman yaitu tutup permukaan polybag dengan kertas koran kemudian siram kertas koran hingga basah. Kertas koran dibuka setelah biji tumbuh yaitu sekitar 3 hari.
+	<br><br>
+	Bibit cabe siap dipindahkan ke media tanam hidroponik kultur polybag setelah 21-24 hari atau setelah bibit cabe memiliki 4-5 helai daun. Bibit harus dirawat dan dijaga dari gulma. Jika ada gulma segera lakukan penyiangan.
+</p><br>
+<h3><b>2. Metode Hidroponik dengan Kultur Polybag</b></h3>
+<h4><b>A. Penyiapan Lahan dan Peralatan Hidroponik</b></h4>
+<p>
+	Siapkan tempat untuk kegiatan bercocok tanam hidroponik. Kemudian pasang peralatan hidroponik seperti bak / wadah nutrisi, selang pompa utama / pipa, dan selang-selang plastik. Jumlah selang plastik disesuaikan dengan jumlah polybag yang akan Anda gunakan. Setiap polybag dipasang 1 selang plastik. Selang-selang plastik dihubungkan pada selang pompa utama bak nutrisi.
+</p>
+<img src="<?php echo base_url(); ?>docs/article-pictures/art4_002.jpg" style="margin: 0 auto 20px auto; display: block;"><br>
+<h4><b>B. Penyiapan Wadah dan Media Tanam</b></h4>
+<p>
+	Polybag ukuran 40 cm disarankan untuk digunakan sebagai penanaman cabe (minimal ukuran polybag di atas 30 cm). Media tanam yang disarankan untuk cabe adalah campuran antara arang sekam dan pasir dengan perbandingan 2:1. Campuran arang sekam dan pasir dapat menahan larutan nutrisi dengan baik dan campuran keduanya memiliki aerasi yang baik. Masukkan media tanam ke dalam polybag dan beri lubang di tengah-tengah media dengan kedalaman 5-7 cm. Anda juga bisa menggunakan rockwool sebagai media tanam, namun harga media ini relatif mahal.
+</p><br>
+<h4><b>C. Pemindahan dan Penanaman Bibit</b></h4>
+<p>
+	Lakukan pemindahan bibit secara hati-hati jangan sampai merusak akar tanaman. Robek polybag mini tempat penyemaian, pindahkan bibit dan media semai seluruhnya ke dalam lubang media hidroponik di polybag besar. Pemindahan bibit disarankan pada saat sore hari saat matahari tidak terlalu menyengat. Bibit akan tampak layu setelah 2-3 hari pemindahan namun akan segar kembali asalkan perakaran masih baik (tidak ada akar yang terluka).
+</p><br>
+<h4><b>D. Pemberian Larutan Nutrisi</b></h4>
+<p>
+	Susun polybag secara teratur. Letakkan selang-selang plastik pengalir nutrisi pada masing-masing polybag. Larutan nutrisi harus mencukupi kebutuhan nutrisi tanaman. Unsur makro seperti N, P , K, Ca, dan Mg harus dipenuhi. Anda dapat menggunakan pupuk AB mix, atau pupuk hidroponik lainnya (anorganik maupun organik). Campur pupuk dengan air di bak nutrisi, lalu alirkan larutan nutrisi ke masing-masing polybag yang berisi bibit tanaman cabe.
+</p><br>
+<h4><b>E. Pemeliharaan</b></h4>
+<p>
+	Pemeliharaan tanaman yang utama meliputi penyiraman, pengajiran, dan pemangkasan. Penyiraman tanaman cabe dengan larutan nutrisi dilakukan sebanyak 5-8 kali sehari. Anda disarankan menggunakan timer pada selang pompa utama agar tidak memerlukan tenaga ekstra.
+	<br><br>
+	Larutan nutrisi yang diberikan sebaiknya dilakukan dengan cara irigasi tetes atau fertigasi. Larutan nutrisi yang diberikan jangan dalam jumlah banyak sekaligus, namun sedikit-demi sedikit asal cukup membasahi media tanam di polybag.
+</p>
+<img src="<?php echo base_url(); ?>docs/article-pictures/art4_003.jpg" style="margin: 20px auto 20px auto; display: block;">
+<p>
+	Pengajiran dilakukan pada tanaman yang kurang lebih berumur 1 minggu atau memiliki tinggi kurang lebih 20 cm dengan menggunakan tongkat bambu. Ajir berfungsi sebagai media penopang tanaman agar dapat tumbuh tegak. Ajir diletakkan di media tanam dengan jarak kurang lebih 4 cm dari pangkal batang. Pemangkasan tunas-tunas muda yang tumbuh di ketiak daun mencegah tanaman tidak tumbuh ke sampingketika batang belum terlalu kuat menopang. Lakukan pemangkasan pada hari ke-20 setelah tanam.
+	<br><br>
+	Demikian tahap-tahap utama dalam penanaman cabe dalam polybag dengan metode hidroponik. Saat melakukan penanaman, perhatikan kondisi optimal tanaman cabe. Tanaman cabe menyukai suhu 24-28&deg;C, kelembaban 80%, kadar pH 6-7, curah hujan 800-2.000 mm per tahun, dan intensitas cahaya matahari sekitar 70%. Perawatan teratur akan membuat tanaman tumbuh subur. Jika timbul hama dan gulma segera lakukan penyemprotan pestisida (disarankan yang alami) dan penyiangan.
+</p>

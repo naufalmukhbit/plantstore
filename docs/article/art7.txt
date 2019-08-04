@@ -1,0 +1,48 @@
+<br>
+<p>
+	Kangkung <i>(Ipomoea aquatica)</i> merupakan tumbuhan yang berasal dari jenis sayur-sayuran <i>Convolvulaceae</i>, yaitu tanaman yang tumbuhnya sangat cepat dan mudah hidup. Tanaman kangkung mudah dikembangbiakkan dan tidak membutuhkan perlakuan khusus, selain dengan cara menanam kangkung di darat Anda juga dapat membudidayakan kangkung dengan tehnik Hidroponik.
+	<br><br>
+	Menanam kangkung hidroponik bisa Anda lakukan di rumah dengan peralatan murah dan sederhana seperti memanfaatkan botol minuman bekas atau menggunakan wadah baskom. Berikut ini adalah cara menanam kangkung hidroponik dengan menggunakan media air dan nutrisi tanpa memerlukan lahan tanah yang luas.
+</p>
+<h3><b>Cara Budidaya Kangkung Hidroponik Menggunakan Botol Bekas</b></h3>
+<h4>Alat dan Bahan yang diperlukan menanam kangkung hidroponik</h4>
+<ol>
+	<li>Siapkan benih kangkung, bisa diperoleh di toko pertanian.</li>
+	<li>Botol bekas air mineral atau gelas plastik bekas.</li>
+	<li>Arang sekam atau pasir dan floral foam.</li>
+	<li>Larutan penyubur tanaman (nutrisi hidroponik)</li>
+	<li>Pisau cutter/ gunting</li>
+	<li>Paku atau solder</li>
+</ol>
+<img src="<?php echo base_url(); ?>docs/article-pictures/art7_001.png" style="margin-bottom: 20px; width: 50%; margin: 20px auto 20px auto; display: block;">
+<h4>Cara membuat kangkung hidroponik</h4>
+<ol>
+	<li>
+		Botol minuman dipotong 2 bagian kira-kira dari kepala botol sepertiga tinggi botol. Bagian atas botol diposisikan terbalik sehingga dapat difungsikan sebagai tempat media sekam dan penanaman.
+	</li>
+	<li>
+		Buatlah lubang pada bagian dasar atau bagian bawah pot yang digunakan. Pembuatan lubang ini dapat menggunakan paku atau solder. Pada bagian tutup botol dan sekelilingnya dibuat lubang sebagai sirkulasi air, udara dan tempat keluarnya akar. Bagian badan botol juga dilubangi untuk sirkulasi udara.
+	</li>
+	<li>
+		Kemudian menyiapkan floral foam (gabus sekam) dan lakukan pengecilan, potong membentuk kubus atau sesuai dengan bentuk ukuran botol. kemudian buatlah lubang pada kubus tersebut menggunakan paku atau sedotan minuman.
+	</li>
+	<li>
+		Selanjutnya lakukan perendaman pada gabus/ floral foam dengan mengunakan air, rendam selama 15-20 menit.
+	</li>
+	<li>
+		Masukan benih tanaman kangkung hidroponik kedalam lubang yang sudah disediakan dalam kubus tadi. Lalu masukan kubus tersebut ke dalam botol hingga sampai pada dasar botol tersebut.
+	</li>
+	<li>
+		Tanaman kangkung hidroponik tetap membutuhkan cahaya matahari, maka tempatkan tanaman agar mendapat banyak sinar matahari namun jangan terkena air hujan, agar larutan nutrisi tidak menjadi encer. Jangan lupa juga untuk pengecekan larutan nutrisi dalam botol karena volumenya akan berkurang akibat penguapan dan diserap tanaman, tambahkan secara berkala larutan nutrisi jika larutan mulai berkurang.
+	</li>
+</ol>
+<h4>Pemeliharaan dan merawat kangkung hidroponik</h4>
+<p>
+	Teknik kangkung hidroponik merupakan cara menanam dengan menggunakan media air, maka dari itu yang harus diperhatikan adalah kandungan media air sebagai pasokan nutrisi utama untuk tumbuhan, media air bisa diberikan pupuk dengan cara pupuk non organik (pupuk kimia) maupun organik, silahkan disesuaikan dengan selera.
+	<br><br>
+	Langkah merawat kangkung hidroponik selanjutnya adalah mengecek kualitas dan kelembaban pada media tanaman. Hal ini bertujuan agar tanaman kangkung dapat tumbuh dengan baik. Selanjutnya pengontrolan tanaman dari hama dan penyakit yang menyerang. Hama dan penyakit yang sering ditemui adalah kutu putih. Karena jumlahnya tidak banyak, pemberantasan hama-hama ini masih dengan cara manual yaitu ditindih pakai tangan.
+	<br><br>
+	Penyiraman juga harus dilakukan secukupnya untuk menjaga kualitas pada tanaman, cahaya matahari sangat diperlukan dalam tanaman minimal 4-5 jam sehari. Agar larutan tidak ditumbuhi lumut, bagian luar botol dapat dilapisi dengan cat berwarna gelap atau dibungkus plastik berwarna gelap sehingga sinar matahari tidak dapat masuk.
+	<br><br>
+	Bagaimana? Cukup mudah dan simple bukan menanam kangkung hidroponik dirumah menggunakan botol bekas minuman. Silahkan di share ya jika artikel ini bermanfaat, Selamat Mencoba.
+</p>

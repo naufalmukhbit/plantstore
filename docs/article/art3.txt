@@ -1,0 +1,153 @@
+<p>
+	Hidroponik merupakan kegiatan menanam yang kian digemari dari hari ke hari. Selain dijadikan hobi untuk mengisi waktu lowong, banyak orang yang tertarik untuk melakukan pembudidayaan tanaman dengan cara bercocok tanam hidroponik sebagai potensi untuk menambah isi celengan keluarga.
+	<br><br>
+	Banyak tanaman yang memberi keuntungan apabila dibudidaya dalam skala besar dengan tujuan komersial, seperti cabe. Cabe merah atau cabe rawit merupakan jenis tanaman yang bisa dibudidaya dengan sistem hidroponik dan menjadi peluang usaha yang cukup menjanjikan.
+	<br><br>
+	Alasannya, cabe hampir tak pernah absen pada bumbu beragam jenis masakan. Tercatat banyak pemilik restoran atau supermarket yang lebih tertarik untuk memilih cabe hasil hidroponik dikarenakan berbagai alasan, seperti berikut misalnya:
+</p>
+<ul>
+	<li>
+		Lebih hemat air karena cabai jarang sekali kotor.
+	</li>
+	<li>
+		Hasil panen cabe hidroponik bebas dari kandungan pestisida.
+	</li>
+	<li>
+		Sangat higienis karena tidak menggunakan media tanam berupa tanah yang menyentuh langsung.
+	</li>
+	<li>
+		Bebas serangan penyakit dan hama seperti ulat yang menggerogoti kulit cabai.
+	</li>
+</ul>
+<p>
+	Selain alasan tersebut, cabe juga kerap digunakan sebagai bumbu instan pada beragam camilan seperti keripik singkong, atau dijadikan roda bisnis dalam perindustrian jamu dan obat-obatan yang mana diketahui bahwa cabai mempunyai dampak positif berupa manfaat kesehatan seperti berikut:
+</p>
+<ul>
+	<li>
+		Cabe dengan warna merah menjadi tanda akan terdapatnya kandungan beta karoten atau pro vitamin A yang pada tubuh akan bekerja untuk meningkatkan sistem imun.
+	</li>
+	<li>
+		Berdasarkan penelitian medis yang belum lama dilaksanakan, ditemukan adanya beberapa jenis kandungan yang dapat mengoptimalkan pembakaran energi selama beberapa jam setelah konsumsi cabai. Hal tersebut berlanjut secara teknis untuk membuat tubuh mengurangi jumlah kalori sehingga terjadilah penurunan berat badan.
+	</li>
+	<li>
+		Dengan memberikan cabe ke dalam makanan secara teratur dapat menurunkan risiko terkena diabetes tipe 2 karena cabe memiliki peptida yang mampu mengontrol tingkat insulin.
+	</li>
+	<li>
+		Dan masih banyak lagi.
+	</li>
+</ul>
+<p>
+	Dengan mengetahui manfaat tersebut, tentu semakin banyak yang terpincut untuk memulai budidaya cabe hidroponik. Apabila Anda termasuk salah satu yang mau mencoba budidaya tanaman cabe di rumah, maka kami akan menguraikan cara menanam cabe hidroponik dalam botol bekas yang menerapkan konsep hidroponik wick system (sistem sumbu).
+</p>
+<img src="<?php echo base_url(); ?>docs/article-pictures/art3_001.jpg" style="margin-bottom: 20px;">
+<h4><b># Tahap 1: Pemilihan Benih Cabe</b></h4>
+<p>
+	Kegiatan hidroponik cabe yang kali pertama harus Anda lakukan adalah memilih bibit atau benih cabe. Pilihlah bibit cabe unggul karena akan menjadi parameter sejauh mana keberhasilan proses produksi. Dari sini Anda mengetahui kalau hidroponik bukan sebatas menjaga tanaman agar bebas dari hama dan penyakit, ataupun melakukan pemupukan tanaman, tetapi memilih bibit berkualitas juga memberikan kontribusi kesuksesan pada pembudidayaan cabe.
+
+	Untuk mengetahui bibit cabe hidroponik yang unggul, Anda bisa melihat dari kriteria seperti induknya serta kecepatan pertumbuhan selama masa penyemaian. Bibit tanaman yang mempunyai lanju pertumbuhan cepat akan menghasilkan tanaman yang lebih produktif sehingga hasil produksi cabe juga lebih berkualitas.
+
+	Dalam menentukan benih cabe memang tidak mudah. Oleh karena itu, agar kegiatan berkebun cabe hidroponik Anda tidak sia-sia, Anda bisa melihat tips memilih bibit cabe unggul berikut ini:
+</p>
+<ul>
+	<li>
+		Ketahui kualitas induk tanaman cabe yang setidaknya mengantongi beberapa kriteria sebagai tanaman unggul, seperti kekuatan tumbuh yang cepat, mampu beradaptasi di berbagai lingkungan berikut kondisi lahan, mempunyai ketahanan yang baik terhadap serangan hama penyakit, menyerap dengan baik nutrisi yang dihantarkan oleh pupuk, mampu memberi hasil produksi tinggi, dan menghasilkan buah (cabe) seperti yang dikehendaki.
+	</li>
+	<li>
+		Bibit cabe yang mau diambil haruslah dari cabe yang benar-benar sudah tua, sehingga diperoleh biji atau benih dari buah yang sudah berisi penuh.
+	</li>
+	<li>
+		Kemampuan berkecambah dan perkembangan kecambah yang bagus.
+	</li>
+	<li>
+		Laju perkembangan benih yang bagus selama proses penyemaian atau pengecambahan. Benih yang memegang ciri-ciri pada poin ini akan menghasilkan tanaman yang subur, begitupun sebaliknya.
+	</li>
+	<li>
+		Pilihlah bibit cabe yang sehat (tidak terserang hama penyakit).
+	</li>
+</ul>
+<p>
+	Jika waktu atau kemampuan Anda tidak banyak untuk memilih atau membuat bibit cabe sendiri pada cara menanam cabe hidroponik dengan botol bekas ini, Anda bisa mendatangi toko pertanian untuk membeli benih cabe. Umumnya ada dua jenis benih yang dijual, yakni benih OP dan benih hibrida. OP merupakan benih lokal yang mempunyai kualitas lebih rendah daripada hibrida. Hal ini dikarenakan hibrida didapat dari hasil penyilangan dua indukan yang sama-sama berkualitas.
+	<br><br>
+	Jika Anda tinggal di lingkungan perkotaan dan merasa kesulitan menemukan kios pertanian, maka ada alternatif mudah yakni dengan membelinya secara online di bibitbunga.com. Bibit cabe yang dijual oleh bibitbunga.com merupakan jenis benih sayuran yang paling laris. Anda bisa memesannya pada situs tersebut dan menunggu dengan santai hingga barang sampai ke rumah.
+</p>
+<h4><b># Tahap 2: Penyemaian Benih Cabe</b></h4>
+<p>
+	Apabila Anda sudah mendapatkan benih cabe unggulan, maka sekarang bisa langsung memulai proses penyemaian. Penyemaian cabe dalam sistem hidroponik tidak jauh berbeda dengan sistem bertani dengan media tanam berupa tanah.
+	<br><br>
+	Berikut panduan dalam menyemai benih cabe dengan mudah:
+</p>
+<ol>
+	<li>
+		Pertama-tama, Anda harus menyortir benih-benih cabe untuk mengetahui kemampuan vigor kecambah dari masing-masing benih. Caranya, rendam benih cabe ke dalam sebuah wadah berisikan air, biarkan beberapa saat dan akan tampak benih cabe yang terapung dan tenggelam. Ambil benih cabe yang terapung Anda buang, kemudian ambil dan gunakan benih cabe yang tenggelam karena pertumbuhan kecambahnya cepat.
+	</li>
+	<li>
+		Untuk menunjang kecepatan tumbuh tanaman cabe yang hendak Anda tanam, pada proses pemilihan benih cabe poin ini, sebaiknya Anda rendam benih cabe ke dalam air yang sudah dicampur dengan zat pengatur tumbuh (ZPT). ZPT akan bekerja merangsang produksi hormon akar sehingga akar lebih cepat keluar. Untuk mendapatkan ZPT, Anda bisa juga membeli di bibitbunga.com.
+	</li>
+	<li>
+		Setelah mendapatkan benih cabe berkualitas, selanjutnya Anda ambil kain basah dan bungkus benih cabe dengan kain selama seharian. Tujuan dari proses penyelimutan benih adalah untuk mempercepat perkecambahan. Setelah kecambah muncul, berikutnya Anda bisa langsung memulai kegiatan penyemaian.
+	</li>
+	<li>
+		Pada tahap penyemaian, Anda harus menyiapkan wadah sebagai tampat semai yang bisa diperoleh dari toko pertanian atau menggunakan wadah plastik yang sudah diberi media tanam seperti sekam bakar atau sabut kelapa.
+	</li>
+	<li>
+		Langkah berikutnya, taburkan benih cabe ke media tanam hingga tenggelam dan tertutupi oleh media tanam tersebut. Lalu siram dengan air bersih secukupnya, jangan sampai tergenang.
+	</li>
+	<li>
+		Pindahkan tempat semai ke area bebas matahari (tidak terkena sinar matahari langsung). Siram benih setiap pagi hingga benih tumbuh dan siap ditanam.
+	</li>
+</ol>
+<h4><b># Tahap 3: Perancangan Tempat Menanam Tanaman</b></h4>
+<p>
+	Tahap ketiga adalah merancang tempat pertumbuhan tanaman. Di sini Anda akan menggunakan botol bekas sebagai sarana pertumbuhan tanaman. Bagaimana caranya? Berikut panduan singkatnya.
+</p>
+<ol>
+	<li>
+		Ambil satu (atau dua, tinggal disesuaikan) botol bekas air mineral yang sudah dibersihkan.
+	</li>
+	<li>
+		Belah bagian atas (sisakan lebih banyak pada bagian bawahnya) botol dengan alat potong seperti gunting atau cutter.
+	</li>
+	<li>
+		Buat lubang kecil pada tutup botol di bagian tengahnya, lalu masukkan sumbu dan ikat bagian atas sumbunya agar tidak lolos atau jatuh ke bawah.
+	</li>
+</ol>
+<p>
+	Tempat untuk menanam cabe ala hidroponik dengan botol bekas sudah jadi. Apabila Anda masih merasa bingung, silakan lihat panduan hidroponik dengan botol bekas.
+</p>
+<h4><b># Tahap 4: Peracikan Nutrisi Tanaman</b></h4>
+<p>
+	Dikarenakan kegiatan penyemaian benih memakan waktu hingga berhari-hari, maka lebih baik gunakan waktu menunggu tersebut untuk menyiapkan komponen lain yang dibutuhkan, seperti nutrisi tanaman yang menjadi penentu keberhasilan pertumbuhan taman.
+	<br><br>
+	Ada banyak sekali nutrisi yang diperlukan oleh tanaman, tetapi yang paling pokok adalah nitrogen, fosfor, dan kalium yang merupakan unsur hara makronya. Selain itu, ada juga beberapa unsur hara mikro yang harus tersedia seperti oksigen agar tanaman bisa melakukan proses fotosintesis serta memberi dukungan pertumbuhan lainnya.
+	<br><br>
+	Nutrisi hidroponik untuk cabe bisa Anda beli di toko pertanian atau lewat internet. Sekarang sudah tersedia banyak nutrisi khusus untuk tanaman cabe. Yang perlu Anda ingat adalah dosis penggunaan nutrisi tersebut, sebaiknya minta bantuan dari teman yang ahli atau bertanya oleh penjual di toko pertanian tersebut.
+	<br><br>
+	Setelah Anda mendapatkan pupuk nutrisi, maka berikutnya Anda bisa membuat larutan nutrisi sendiri di rumah. Larutan nutrisi tersebut harus selalu diserap oleh akar agar tanaman mengalami keberlangsungan proses tumbuh kembang. Apabila ketersediaan larutan nutrisi habis atau mengering karena berbagai alasan, maka tanaman akan berisiko lebih besar untuk layu atau mati.
+	<br><br>
+	Kebutuhan unsur hara mikro pada tanaman cabe saat memasuki fase pertumbuhan vegetatif harus dipenuhi dan tidak bisa sembarangan. Sebaiknya pada fase pertumbuhan vegetatif Anda berikan larutan nutrisi yang berasal dari pupuk daun. Setelah memasuki fase pertumbuhan generatif, Anda bisa menggunakan larutan nutrisi yang terbuat dari pupuk buah.
+</p>
+<h4><b># Tahap 5: Pemindahan Benih Hasil Semai</b></h4>
+<p>
+	Proses transplanting atau pemindahan bibit yang telah berkecambah dari media semai ke media pertumbuhan tanaman yang telah dibuat sebelumnya harus dilakukan dengan hati-hati. Bibit yang sudah berkecambah yang terbenam di dalam media tanam tadi bisa langsung Anda pindahkan ke wadah pertumbuhan berupa botol bekas tadi.
+	<br><br>
+	Untuk lebih mudahnya, berikut caranya:
+</p>
+<ol>
+	<li>
+		Sebelum memindahkan, pastikan Anda sudah menuangkan larutan nutrisi ke bagian bawah botol. Atur ketinggian air, berikan sedikit ruang dan buatlah lubang pada sisi botol untuk memberi ruang masuknya oksigen yang akan membantu proses fotosintesis tanaman.
+	</li>
+	<li>
+		Setelah itu, pindahkan benih beserta media tanam ke bagian kepala botol yang sudah dipasangi sumbu pada tutup botolnya dengan posisi terbalik. Pindahkan dengan hati-hati. Perbanyak media tanam hingga sedikit padat agar tanaman bisa ditopang dengan kuat saat tumbuh membesar.
+	</li>
+	<li>
+		Langkah terakhir adalah dengan memasangkan kepala botol terbalik ke dalam badan botol dan pastikan sumbu mengenai air larutan.
+	</li>
+</ol>
+<h4><b># Tahap 6: Perawatan & Pemeliharaan</b></h4>
+<p>
+	Pada tahap terakhir dalam cara menanam cabe hidroponik dengan botol bekas ini Anda hanya perlu menyediakan kebutuhan nutrisi tanaman secara rutin selama masa pertumbuhannya. Lihat kembali tahap keempat (peracikan nutrisi) untuk mengetahui jenis pupuk apa yang harus dibuat sebagai larutan nutrisi hidroponik tanaman cabe saat pertumbuhan vegetatif (akar, batang, tunas, dan daun) dan generatif (bunga, biji, dan buah).
+	<br><br>
+	Semakin besar ukuran tanaman, maka keperluan nutrisinya juga bertambah. Hal yang jauh lebih penting dari itu adalah jangan sampai Anda lupa untuk menuangkan larutan nutrisi pada bagian bawah botol apabila sudah terlihat berkurang banyak sehingga perlu ditambah lagi. Begitu terus sampai masa panen.
+	<br><br>
+	Begitulah cara menanam cabe hidroponik dalam botol bekas dengan sistem sumbu. Selain dengan botol, bertani cabe hidroponik juga bisa ditanam dengan pipa paralon tegak. Anda bisa memilih mau menggunakan yang mana, tidak masalah, asalkan Anda mempunyai kemampuan dan kemauan untuk bersabar dalam belajar dan mempraktikan teknik hidroponik yang kadangkala hasilnya tidak sesuai keinginan.
+</p>

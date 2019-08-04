@@ -1,0 +1,75 @@
+<p>
+	Sawi hidroponik merupakan tumbuhan yang diambil daun dan bunganya untuk dijadikan bahan pangan seperti sayuran segar untuk diolah menjadi beragam jenis masakan. Di Indonesia terdapat sawi hijau yang biasa disebut sawi bakso, caisim, atau caisin, serta sawi putih yang disebut juga petsai. Sawi telah lama menjadi kerabat masyarakat Indonesia dikarenakan nikmat dan kaya manfaat.
+	<br><br>
+	Sayur sawi yang biasa diolah menjadi tumisan ini menyimpan banyak kandungan gizi yang bermanfaat untuk kesehatan tubuh, seperti menyehatkan tulang, mencegah penyakit kanker, membantu mencegah sembelit karena kaya serat dan kandungan air, membantu penderita diabetes, dan membantu tidur, gerakan otot, belajar, serta memori.
+	<br><br>
+	Penanaman sawi bisa dilakukan dengan media tanah ataupun tanpa tanah, seperti hidroponik. Sawi yang dibudidaya dengan metode bercocok tanam tanpa tanah atau istilah umumnya hidroponik bisa menjadi pilihan setiap orang yang mau belajar bercocok tanam. Hasil sayuran sawi akan terasa lebih gurih, segar, dan nikmat apabila ditanam dengan menerapkan konsep hidroponik.
+	<br><br>
+	Hidroponik sawi sudah lama dilakukan oleh petani mengetahui sawi termasuk jenis sayuran yang banyak disukai oleh masyarakat. Terdapat peluang usaha yang cukup menjanjikan. Salah satu alasannya adalah sawi merupakan jenis sayuran yang cepat tumbuh sehingga lebih cepat panen dan memberikan hasil pertanian yang banyak.
+</p>
+<h3>Cara Menanam Sawi Hidroponik</h3>
+<img src="<?php echo base_url(); ?>docs/article-pictures/art5_001.jpg" style="margin-bottom: 20px;">
+<p>
+	Cara menanam sawi hidroponik bisa dilaksanakan di rumah dengan memanfaatkan media tanam seperti botol bekas dengan mengambil konsep hidroponik sistem sumbu. Panduan pembuatannya akan kami jabarkan berikut ini, silakan dicoba dan diikuti dengan baik.
+</p>
+<h4>PERSIAPAN ALAT DAN BAHAN</h4>
+<p>Berikut peralatan dan bahan hidroponik sawi yang perlu Anda siapkan:</p>
+<ul>
+	<li>Benih sawi</li>
+	<li>Botol bekas minuman atau air mineral</li>
+	<li>Alat untuk memotong botol seperti pisau atau gunting</li>
+	<li>Alat untuk membuat lubang pada tutup botol, seperti bor atau paku</li>
+	<li>Media semai rockwool (dinilai lebih bersih, praktis, dan memiliki kemampuan mengikat air yang baik)</li>
+	<li>Media tanam berupa abu sekam</li>
+	<li>Air</li>
+	<li>Nutrisi hidroponik</li>
+	<li>Sumbu kompor atau bisa diganti dengan kain flanel</li>
+</ul>
+<h4>PEMBIBITAN DENGAN SEMAI BENIH</h4>
+<p>
+	Begitu seluruh peralatan dan bahan yang diperlukan telah siap, maka cara menanam sawi hidroponik dengan botol bekas yang selanjutnya adalah kegiatan penyemaian benih sawi.
+	<br><br>
+	Berikut panduan pembibitan benih sawi:
+</p>
+<ul>
+	<li>Sediakan nampan atau wadah untuk media semai rockwool.</li>
+	<li>Potong-potong rockwool dalam bentuk persegi menjadi beberapa bagian.</li>
+	<li>Taburkan 1 – 2 biji sayur sawi pada setiap rockwool, kemudian basahi dengan air bersih dan letakkan semua rockwool berisikan biji ke atas nampan.</li>
+	<li>Pindahkan nampan atau wadah semai ke tempat yang gelap dan tutup dengan plastik hitam.</li>
+	<li>Tunggu biji pecah dan tumbuh kecambah atau tunas dalam waktu satu sampai dua hari.</li>
+	<li>Setelah tumbuh kecambah, perkenalkan benih ke matahari yang tidak terlalu terik ataupun terkena paparan sinarnya secara langsung.</li>
+	<li>Semprotkan air pada rockwool setiap pagi dan sore selama proses penyemaian.</li>
+</ul>
+<h4>PEMBUATAN MEDIA TUMBUH TANAMAN</h4>
+<p>Tahap ketiga bisa dilakukan sembari menunggu proses penyemaian benih. Berikut cara menanam sawi hidroponik dengan mempersiapkan media pertumbuhan:</p>
+<ul>
+	<li>Belah botol menjadi dua bagian dengan gunting atau pisau.</li>
+	<li>Pastikan bagian atas dan bawah terpisah sama rata, karena nanti akan digabungkan.</li>
+	<li>Buat celah berupa lubang pada tutup botol minuman dengan paku. Anda bisa memanaskan paku agar lebih mudah dalam membuat lubang.</li>
+	<li>Lubang yang dibuat jangan terlalu besar karena dikhawatirkan sumbu sebagai sarana distribusi nutrisi mudah merosot.</li>
+	<li>Setelah lubang selesai dibuat, masukkan sumbu ke dalam botol dan buat sedikit tumpukan pada bagian dalam tutup botol (bagian atas botol).</li>
+	<li>Isi bagian atas botol dengan arang sekam.</li>
+</ul>
+<h4>PEMINDAHAN BENIH SAWI</h4>
+<p>
+	Jika kegiatan semai sudah berlangsung cukup lama dan tanaman sudah cukup tua, cara menanam sawi hidroponik sederhana berikutnya adalah dengan melakukan pindah tanam atau transplantasi tanaman. Berikut caranya:
+</p>
+<ul>
+	<li>Basahi rockwool dengan air seperlunya, lalu cabut tanaman sawi yang masih kecil dengan hati-hati agar akar tidak putus.</li>
+	<li>Pindahkan dan benamkan tanaman sawi ke dalam arang sekam pada botol. Ulangi proses sampai bibit yang sudah berakar ini masuk ke dalam botol.</li>
+	<li>Selanjutnya, Anda harus melihat tahapan setelah ini (perawatan dan pemeliharaan) di mana akan dibahas mengenai nutrisi sawi hidroponik yang akan dituangkan ke dalam bagian bawah botol.</li>
+</ul>
+<h4>PERAWATAN DAN PEMELIHARAAN</h4>
+<p>
+	Perawatan sawi hidroponik tidaklah sulit, Anda hanya perlu memberikan cairan nutrisi setiap hari pada awal penanaman, berikutnya tidak perlu sesering masa awal tanam. Nutrisi hidroponik bisa dibuat sendiri dengan menggabungkan pupuk yang didapat dari toko pertanian.
+	<br><br>
+	Berikutnya, Anda harus melakukan pengecekan dan pemeliharaan agar proses tumbuh sawi tidak terganggu oleh penyakit atau serangan hama misalnya. Caranya, Anda cukup melakukan penyemprotan tanaman dengan pestisida dan insektisida yang disesuaikan dengan kondisi baik tidaknya tanaman yang terganggu oleh hama dan penyakit.
+</p>
+<h4>MASA PANEN HASIL TANAMAN SAWI</h4>
+<p>
+	Seperti telah dibahas pertama tadi, sawi yang ditanam dengan konsep hidroponik bisa lebih cepat tumbuh dari waktu seharusnya. Anda bisa melakukan kegiatan panen 3 bulan setelah kegiatan transplantasi. Cara memanenannya adalah dengan mencabut sawi yang sudah besar dari botol bekas secara perlahan.
+	<br><br>
+	Untuk mendapatkan hasil produksi yang tinggi, maka Anda perlu meningkatkan jumlah botol untuk pembudidayaan sawi hidroponiknya. Semakin banyak tanaman sawi yang dihasilkan, maka semakin besar pula keuntungan yang akan Anda peroleh dalam waktu singkat. Jika ingin melakukan scale up, Anda bisa memikirkan kembali untuk mencoba skala yang lebih besar dengan menggunakan sistem NFT pakai media paralon yang bisa langsung menanam banyak tanaman sawi secara paralel.
+	<br><br>
+	Itulah ulasan singkat mengenai cara menanam sawi hidroponik dengan botol bekas yang bisa Anda diterapkan dengan mudah dan sederhana di dalam rumah. Sekarang Anda beserta keluarga tercinta bisa menikmati sayur sawi yang lebih sehat dan menyegarkan tanpa harus mengeluarkan uang untuk membelinya.
+</p>
